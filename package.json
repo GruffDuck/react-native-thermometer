@@ -1,6 +1,6 @@
 {
   "name": "react-native-thermometer",
-  "version": "1.0.11",
+  "version": "1.0.14",
   "description": "A customizable thermometer component for React Native applications",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -28,8 +28,8 @@
   "homepage": "https://github.com/GruffDuck/react-native-thermometer#readme",
   "peerDependencies": {
     "react": "^18.0.0",
-    "react-native": "^0.72.0",
-    "react-native-svg": "^13.0.0"
+    "react-native": ">=0.72.0",
+    "react-native-svg": ">=13.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.14",

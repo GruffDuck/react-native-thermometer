@@ -158,7 +158,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ### **Contact**
 If you have any questions or need support, feel free to reach out:
 
-- GitHub: [YourUsername](https://github.com/GruffDuck)
+- GitHub: [GruffDuck](https://github.com/GruffDuck)
 - Email: yalinbasmehmet@gmail.com
 
 ---

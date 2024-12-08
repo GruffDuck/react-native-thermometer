@@ -1,3 +1,6 @@
-export { default as Thermometer } from './Thermometer';
-export * from './types';
-export * from './utils';
+import Thermometer from "./Thermometer";
+
+export default Thermometer;
+
+export * from "./types";
+export * from "./utils";

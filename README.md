@@ -1,6 +1,4 @@
-İşte kaliteli, detaylı ve profesyonel bir README içeriği:
 
----
 
 # **React Native Thermometer**
 

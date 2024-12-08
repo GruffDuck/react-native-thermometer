@@ -17,8 +17,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.Thermometer = void 0;
-var Thermometer_1 = require("./Thermometer");
-Object.defineProperty(exports, "Thermometer", { enumerable: true, get: function () { return __importDefault(Thermometer_1).default; } });
+var Thermometer_1 = __importDefault(require("./Thermometer"));
+exports.default = Thermometer_1.default;
 __exportStar(require("./types"), exports);
 __exportStar(require("./utils"), exports);

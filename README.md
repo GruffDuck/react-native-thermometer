@@ -6,7 +6,7 @@
 
 A customizable and animated thermometer component for React Native applications, built with TypeScript.
 
-![React Native Thermometer Demo](https://via.placeholder.com/600x300) <!-- Add a demo image or gif link here -->
+![React Native Thermometer Demo](./src/images/thermometer.png) <!-- Add a demo image or gif link here -->
 
 ## **Features**
 - 📏 **Customizable**: Adjust dimensions, colors, and maximum temperature.
@@ -124,17 +124,7 @@ export default App;
 | `borderColor`         | `string`           | `#E6EAF4`     | The border color of the thermometer.                 |
 | `style`               | `ViewStyle`        | `undefined`   | Additional styles for the thermometer container.     |
 
----
 
-## **Screenshots**
-
-### **Default Thermometer**
-![Default Thermometer](https://via.placeholder.com/200x400)
-
-### **Custom Thermometer**
-![Custom Thermometer](https://via.placeholder.com/200x400)
-
----
 
 ## **How It Works**
 

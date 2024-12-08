@@ -1,16 +1,31 @@
 {
   "name": "react-native-thermometer",
   "version": "1.0.0",
-  "description": "React Native için özelleştirilebilir bir termometre bileşeni",
+  "description": "A customizable thermometer component for React Native applications",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "prepare": "npm run build"
+    "prepare": "npm run build",
+    "test": "echo \"No test specified\" && exit 0"
   },
-  "repository": "https://github.com/yourusername/react-native-thermometer",
-  "author": "Your Name",
+  "keywords": [
+    "react-native",
+    "thermometer",
+    "react-native-thermometer",
+    "animated-component",
+    "temperature"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GruffDuck/react-native-thermometer.git"
+  },
+  "author": "GruffDuck <yalinbasmehmet@gmail.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GruffDuck/react-native-thermometer/issues"
+  },
+  "homepage": "https://github.com/GruffDuck/react-native-thermometer#readme",
   "peerDependencies": {
     "react": "^18.0.0",
     "react-native": "^0.72.0",
@@ -20,5 +35,11 @@
     "@types/react": "^18.3.14",
     "@types/react-native": "^0.72.8",
     "typescript": "^5.7.2"
-  }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "src/images"
+  ]
 }

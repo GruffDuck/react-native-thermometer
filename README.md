@@ -162,5 +162,3 @@ If you have any questions or need support, feel free to reach out:
 - Email: yalinbasmehmet@gmail.com
 
 ---
-
-Bu doküman, paketinizi profesyonel bir şekilde tanıtır ve kullanıcıların hızlıca başlamasına olanak tanır. `Screenshots` kısmını kendi ekran görüntülerinizle güncelleyerek daha çekici hale getirebilirsiniz. 😊

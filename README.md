@@ -6,7 +6,7 @@
 
 A customizable and animated thermometer component for React Native applications, built with TypeScript.
 
-![React Native Thermometer Demo](./src/images/thermometer.png) <!-- Add a demo image or gif link here -->
+![React Native Thermometer Demo](./src/image/thermometer.png) <!-- Add a demo image or gif link here -->
 
 ## **Features**
 - 📏 **Customizable**: Adjust dimensions, colors, and maximum temperature.

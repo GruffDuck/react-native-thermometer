@@ -1,0 +1,24 @@
+# Node.js modülleri
+node_modules
+
+# Çıktı klasörleri
+example
+dist
+
+# Kaynak kodlar
+src
+
+# Gereksiz sistem dosyaları
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Git ile ilgili dosyalar
+.git
+.gitignore
+
+# IDE ve işletim sistemi dosyaları
+.idea
+.vscode
+*.swp
